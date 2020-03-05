@@ -1,2 +1,3 @@
 # Hellocation
-Location provider test app
+My first "Hello world" Android Studio template app, morphed into a Location provider test app.
+
